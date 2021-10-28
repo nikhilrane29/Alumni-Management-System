@@ -1,5 +1,4 @@
 # Alumni-Tracking-System
-# Alumni Tracking Web Application
 # Description:-
 Alumni Tracking System is an online-based application that helps to enhance the tracking of 
 college graduates. The project primarily aims to replace current tracking procedure of college 
