@@ -1,5 +1,5 @@
 # Alumni-Tracking-System
-# I have Created Alumni Tracking System Web Application also created domain form and Store Alumni Data And Updated information Related to Placement cell and Any Event.
+# Alumni Tracking Web Application
 # Description:-
 Alumni Tracking System is an online-based application that helps to enhance the tracking of 
 college graduates. The project primarily aims to replace current tracking procedure of college 
