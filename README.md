@@ -1,6 +1,6 @@
 # Alumni-Management-System
 # Description:-
-Alumni Tracking System is an online-based application that helps to enhance the tracking of 
+Alumni Management System is an online-based application that helps to enhance the tracking of 
 college graduates. The project primarily aims to replace current tracking procedure of college 
 graduates and providing alumni data to college faculties. It aims at developing a web portal 
 which will be useful for the college to monitor the alumni's and for the alumni to update their 
